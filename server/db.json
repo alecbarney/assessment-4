@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Denzel Washington",
+      "rating": 5,
+      "imageURL" : "https://m.media-amazon.com/images/M/MV5BMjE5NDU2Mzc3MV5BMl5BanBnXkFtZTcwNjAwNTE5OQ@@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Tom Hanks",
+      "rating": 4,
+      "imageURL" : "https://www.emmys.com/sites/default/files/bios/tom-hanks-ap-450x600.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Will Smith",
+      "rating": 5,
+      "imageURL" : "https://m.media-amazon.com/images/M/MV5BNTczMzk1MjU1MV5BMl5BanBnXkFtZTcwNDk2MzAyMg@@._V1_UY1200_CR99,0,630,1200_AL_.jpg"
+    }
+   
+  ]
